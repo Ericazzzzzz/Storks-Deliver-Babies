@@ -1,4 +1,4 @@
-# 🦩 Storks and Babies: A Regression Analysis
+# 🦩 Storks Deliver Babies: A Regression Analysis
 
 **🔍 Project Overview**:  
 This project explores the humorous and historically popular claim that "storks deliver babies," examining correlations between stork populations and birth rates across countries. Using regression models, this project illustrates statistical concepts such as spurious correlations and emphasizes the importance of model selection in interpreting data accurately.
